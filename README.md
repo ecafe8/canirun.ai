@@ -65,7 +65,7 @@ Models from **Meta, Google, Alibaba, DeepSeek, Mistral AI, Microsoft, NVIDIA, Li
 | Family | Models |
 |---|---|
 | Llama | 3.1 8B, 3.1 405B, 3.2 1B/3B/11B-Vision, 3.3 70B, 4 Scout, 4 Maverick |
-| Qwen | 2.5 7B–72B, 2.5 Coder, 3 1.7B–235B, 3.5 0.8B–397B, 3 Coder 480B |
+| Qwen | 2.5 7B–72B, 2.5 Coder, 3 1.7B–235B, 3.5 0.8B–397B, 3.6 27B/35B-A3B, 3 Coder 480B |
 | Gemma | 2 2B/9B/27B, 3 1B/4B/12B/27B |
 | DeepSeek | R1 1.5B–32B, V3.1, V3.2 |
 | Mistral | 7B, Nemo 12B, Small 24B, Mixtral 8x7B/8x22B, Devstral |
